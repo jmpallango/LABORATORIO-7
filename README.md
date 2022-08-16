@@ -56,9 +56,22 @@ PROCEDIMIENTO:
 
 1.- Construya en el protoboard el circuito mostrado en la Figura 1.
 
+![image](https://user-images.githubusercontent.com/105695077/184792548-4a2b50f1-c08e-4cc7-8ed0-ee7939dd79e2.png)
+
+
 a. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.
 
 ![image](https://user-images.githubusercontent.com/105695077/184791792-240ab3be-2590-4e85-b2b1-a5899797896b.png)
+
+![image](https://user-images.githubusercontent.com/105695077/184792461-25852141-6569-49b9-97a3-205904509358.png)
+
+![image](https://user-images.githubusercontent.com/105695077/184792749-234fa66a-1c9c-44dd-b3a7-bac90cb7ecea.png)
+
+![image](https://user-images.githubusercontent.com/105695077/184792977-f52c3156-823f-4581-bdad-f4bacfe9c49f.png)
+
+![image](https://user-images.githubusercontent.com/105695077/184793371-59a4dd0b-0f33-4f32-a4b2-0c513e31426e.png)
+
+![image](https://user-images.githubusercontent.com/105695077/184793758-2fd117e2-0e75-4111-ac3c-094b90664996.png)
 
 b. Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
