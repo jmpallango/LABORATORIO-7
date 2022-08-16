@@ -81,6 +81,30 @@ Frecuencia: 1000Hz -Voltaje Pico: 0.721V
 
 b. Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
+Frecuencia: 0Hz 
+
+![image](https://user-images.githubusercontent.com/105695077/184795707-666e7d6d-799d-49c0-88e7-7e80807155e7.png)
+
+Frecuencia: 10Hz 
+
+![image](https://user-images.githubusercontent.com/105695077/184795736-268f3bc4-6584-4df4-a232-bce90865ff8f.png)
+
+Frecuencia: 50Hz 
+
+![image](https://user-images.githubusercontent.com/105695077/184795776-4c544522-1599-4232-ac3d-b7c880bbceef.png)
+
+Frecuencia: 100Hz 
+
+![image](https://user-images.githubusercontent.com/105695077/184795794-89e194fa-0a39-4d14-a777-48f1b68afc73.png)
+
+Frecuencia: 500Hz 
+
+![image](https://user-images.githubusercontent.com/105695077/184795861-4dd45f26-66fb-4c3c-be66-525551823e28.png)
+
+Frecuencia: 1000Hz 
+
+
+
 c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
 ![image](https://user-images.githubusercontent.com/105695077/184780051-308a5725-43d9-4dac-a40d-60dde90a633d.png)
