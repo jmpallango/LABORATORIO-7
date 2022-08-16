@@ -137,6 +137,30 @@ Frecuencia: 1000Hz
 
 Realice las mismas mediciones de los ítems del numeral anterior y presente los resultados.
 
+a. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.
+
+Frecuencia: 0Hz -Voltaje Pico: 4.65V
+![image](https://user-images.githubusercontent.com/105695077/184797541-f542c364-7d6e-4bdf-989e-98742975310b.png)
+
+Frecuencia: 10Hz -Voltaje Pico: 310.92 mV
+![image](https://user-images.githubusercontent.com/105695077/184797559-0596721d-0810-4e70-9ac9-ea9cd903fae4.png)
+
+Frecuencia: 50Hz -Voltaje Pico: 1.54V
+![image](https://user-images.githubusercontent.com/105695077/184797569-f000fafa-b275-48a9-9f50-b8f60663934a.png)
+
+Frecuencia: 100Hz -Voltaje Pico: 3.01V
+![image](https://user-images.githubusercontent.com/105695077/184797584-e6fd25d8-6bc5-40f5-ae06-0eee6d9c7928.png)
+
+Frecuencia: 500Hz -Voltaje Pico: 8.43V
+![image](https://user-images.githubusercontent.com/105695077/184797615-bf995c91-8a93-459d-aa13-a77b803c1af1.png)
+
+Frecuencia: 1000Hz -Voltaje Pico: 10.24v
+![image](https://user-images.githubusercontent.com/105695077/184797639-57353ee7-de32-473c-ba37-70bd6302c49b.png)
+
+b. Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los resultados.
+
+c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
+
 1.- Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las
 diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y
 comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.
