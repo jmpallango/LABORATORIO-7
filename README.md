@@ -29,7 +29,7 @@ Viernes 15 de agosto de 2022
 
 General:
 
-Analizar y comprobar de forma teórica y experimental el funcionamiento que tiene un osciloscopio en el proceso de tomar valores de frecuencia dentro de un circuito eléctrico con fuentes de corriente alterna, de esta manera nos ayudara a familiarizar con el instrumento mediante el uso de simuladores virtuales para de esta manera obtener habilidad al momento de tomar valores como la frecuencia, voltajes rms, valores pico a pico y la corriente del circuito.
+Analizar y comprobar de forma teórica y experimental el funcionamiento que tiene un osciloscopio en el proceso de tomar valores de frecuencia dentro de un circuito eléctrico con fuentes de corriente alterna, para de esta manera obtener habilidad al momento de tomar valores como la frecuencia, voltajes rms, valores pico a pico y la corriente del circuito.
 
 Especificos:
 
