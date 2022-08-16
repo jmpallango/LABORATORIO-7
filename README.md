@@ -66,6 +66,8 @@ PROCEDIMIENTO:
 
 1.- Construya en el protoboard el circuito mostrado en la Figura 1.
 
+![image](https://user-images.githubusercontent.com/105695077/184912315-5d4247f8-471f-4d53-bce9-b6ebd29396c1.png)
+
 ![image](https://user-images.githubusercontent.com/105695077/184792548-4a2b50f1-c08e-4cc7-8ed0-ee7939dd79e2.png)
 
 
