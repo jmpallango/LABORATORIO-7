@@ -203,6 +203,7 @@ comente los resultados obtenidos tomando en cuenta las distintas frecuencias uti
 
 ![image](https://user-images.githubusercontent.com/105695077/184800225-0c6902bf-c286-49a1-8834-fbf93c47a770.png)
 
+![image](https://user-images.githubusercontent.com/105695077/184800978-59f54243-7faa-4104-90d9-59ed285ae361.png)
 
 1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
 
