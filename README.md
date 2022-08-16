@@ -159,7 +159,43 @@ Frecuencia: 1000Hz -Voltaje Pico: 10.24v
 
 b. Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
+Frecuencia: 0Hz 
+![image](https://user-images.githubusercontent.com/105695077/184798252-757634c1-5715-4ec1-a87e-47f3c1d693f9.png)
+
+Frecuencia: 10Hz
+![image](https://user-images.githubusercontent.com/105695077/184798411-dd84b8cf-516d-4ee8-8bf1-dc5df3413147.png)
+
+Frecuencia: 50Hz
+![image](https://user-images.githubusercontent.com/105695077/184798472-07b79b25-e177-4867-b45c-85ad1a1aab3a.png)
+
+Frecuencia: 100Hz 
+![image](https://user-images.githubusercontent.com/105695077/184798507-c91fa8aa-bc04-49a5-9d6c-75f3da8e5373.png)
+
+Frecuencia: 500Hz 
+![image](https://user-images.githubusercontent.com/105695077/184798559-009527b9-4e97-4832-af36-ece0a88e3cf1.png)
+
+Frecuencia: 1000Hz 
+![image](https://user-images.githubusercontent.com/105695077/184798599-7b934dc5-5095-4063-8f47-4945451747b0.png)
+
 c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
+
+Frecuencia: 0Hz 
+![image](https://user-images.githubusercontent.com/105695077/184798392-52b3b978-8404-4027-b19f-2e8f974e7bd9.png)
+
+Frecuencia: 10Hz 
+![image](https://user-images.githubusercontent.com/105695077/184798434-1b44d907-9aff-4fbd-9f07-ca5b1c47a95a.png)
+
+Frecuencia: 50Hz
+![image](https://user-images.githubusercontent.com/105695077/184798492-c8624ab6-4f40-4633-9e57-df5dc8ef004e.png)
+
+Frecuencia: 100Hz 
+![image](https://user-images.githubusercontent.com/105695077/184798528-3e6ebb04-def4-431f-a0d4-93d8bb27c0b2.png)
+
+Frecuencia: 500Hz 
+![image](https://user-images.githubusercontent.com/105695077/184798581-cf7ead6e-fa37-4cd9-911b-426b7993d758.png)
+
+Frecuencia: 1000Hz 
+![image](https://user-images.githubusercontent.com/105695077/184798630-b644a1cd-01a9-4c5f-af03-ba94dd613ee0.png)
 
 1.- Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las
 diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y
