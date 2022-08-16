@@ -241,6 +241,8 @@ Los valores eficaces son los valores que tendria una corriente continua, la cual
 
 # VIDEO
 
+https://youtu.be/P1_bXmItsJw
+
 # CONCLUSIONES:
 
 # BIBLIOGRAFÍA:
