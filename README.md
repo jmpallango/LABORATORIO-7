@@ -203,13 +203,25 @@ comente los resultados obtenidos tomando en cuenta las distintas frecuencias uti
 
 1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
 
+La bobina en una corriente continua se comporta como un corto circuito y deja pasar la corriente a través de esta sin ninguna oposición.
+
+El capacitor en una corriente continua se comporta como un acumulador de carga.
+
 2.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
+
+Cuando a una bobina se le aplica un voltaje de corriente alterna, se produce un campo magnético que varia continuamente, por esto tambien va a existir un voltaje contrario inducido permanetemente en opopsicion a la corriente alterna principal.
+
+El capacitor en corriente alterna se comporta como un circuito abierto para todos los casos. Cuando se une el capacitor a una fuente de voltaje alterno, el voltaje en las placas cambia de acuardo al cambio del voltaje de la fuente, y la carga de las placas del capacitor cambia de igual manera.
 
 3.- ¿Qué cree usted que ocurriría con el voltaje  y la corriente de la resistencia en los
 circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores
 distintos?
 
+En la figura uno si se utilizan dos capacitores de valores distintos, ya sea el uno mayor o menor al otro, el voltaje y la corriente van a variar un poco, por otro lado en la figura dos si se usan dos bobinas de valores distintos por lo que el voltaje va a aumentar o disminuir, sin embargo la corriente se va a mantener constante
+
 4.- ¿Qué son los valores eficaces de voltaje y corriente?
+
+Los valores eficaces son los valores que tendria una corriente continua, la cual produjera la misma potencia de dicha corriente alterna, en otras palabras si se mide, por ejemplo, una tensión de 5 voltios en alterna, lo que dice el aparato de medida, es que esa onda en corriente alterna, transmite la misma cantidad de potencia que una señal de 5 voltios en corriente continua. Es por esto que se usa valores eficases, puesto que todas las formulas y procesos de calculos, tambein sirven em correinte alterna.
 
 # VIDEO
 
