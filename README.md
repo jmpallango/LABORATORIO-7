@@ -67,7 +67,7 @@ Frecuencia: 0Hz -Voltaje Pico: 6.84V
 Frecuencia: 10Hz -Voltaje Pico: 9.94V
 ![image](https://user-images.githubusercontent.com/105695077/184792461-25852141-6569-49b9-97a3-205904509358.png)
 
-Frecuencia: 0Hz -Voltaje Pico: 6.84V
+Frecuencia: 50Hz -Voltaje Pico: 8.44V
 ![image](https://user-images.githubusercontent.com/105695077/184792749-234fa66a-1c9c-44dd-b3a7-bac90cb7ecea.png)
 
 Frecuencia: 0Hz -Voltaje Pico: 6.84V
