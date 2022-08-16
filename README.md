@@ -64,7 +64,7 @@ a. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entr
 Frecuencia: 0Hz -Voltaje Pico: 6.84V
 ![image](https://user-images.githubusercontent.com/105695077/184791792-240ab3be-2590-4e85-b2b1-a5899797896b.png)
 
-Frecuencia: 0Hz -Voltaje Pico: 6.84V
+Frecuencia: 10Hz -Voltaje Pico: 9.94V
 ![image](https://user-images.githubusercontent.com/105695077/184792461-25852141-6569-49b9-97a3-205904509358.png)
 
 Frecuencia: 0Hz -Voltaje Pico: 6.84V
