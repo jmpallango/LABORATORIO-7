@@ -201,6 +201,9 @@ Frecuencia: 1000Hz
 diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y
 comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.
 
+![image](https://user-images.githubusercontent.com/105695077/184800225-0c6902bf-c286-49a1-8834-fbf93c47a770.png)
+
+
 1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
 
 La bobina en una corriente continua se comporta como un corto circuito y deja pasar la corriente a través de esta sin ninguna oposición.
