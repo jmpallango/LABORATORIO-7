@@ -103,11 +103,33 @@ Frecuencia: 500Hz
 
 Frecuencia: 1000Hz 
 
-
+![image](https://user-images.githubusercontent.com/105695077/184796287-fabd3d21-7b16-4ecc-9157-28097beefaa7.png)
 
 c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
-![image](https://user-images.githubusercontent.com/105695077/184780051-308a5725-43d9-4dac-a40d-60dde90a633d.png)
+Frecuencia: 0Hz 
+
+![image](https://user-images.githubusercontent.com/105695077/184796313-6c59ef91-f18a-4617-a5a5-594001b74695.png)
+
+Frecuencia: 10Hz 
+
+![image](https://user-images.githubusercontent.com/105695077/184796323-0981cab9-0b3f-4ccf-99ae-3a30ef9e4dfb.png)
+
+Frecuencia: 50Hz 
+
+![image](https://user-images.githubusercontent.com/105695077/184796344-017f6593-1938-4eea-be4b-c72cf4424fa8.png)
+
+Frecuencia: 100Hz 
+
+![image](https://user-images.githubusercontent.com/105695077/184796432-db3c5aeb-ad77-424e-9ad7-d4d5c66dd2cf.png)
+
+Frecuencia: 500Hz 
+
+![image](https://user-images.githubusercontent.com/105695077/184796454-59f7f0a9-04ed-436c-ad59-01a3250014e4.png)
+
+Frecuencia: 1000Hz 
+
+![image](https://user-images.githubusercontent.com/105695077/184796476-9a3e77b7-93be-489e-9a0b-832731559984.png)
 
 2.- Construya el circuito mostrado en la Figura 2
 
