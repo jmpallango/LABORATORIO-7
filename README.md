@@ -245,6 +245,10 @@ https://youtu.be/P1_bXmItsJw
 
 # CONCLUSIONES:
 
+El manejo del osciloscopio depende de la manera y la corriente que se le proporciona al circuito y este puede detectar de una manera mas regular el voltaje maximo a diferencia del multimetro ya que este puede sufrir un ligero desface al momento de medir el voltaje inicial del cirvuito.
+
+Comprender bien el manejo del osciloscipio para tener una mejor lectura del voltaje y evitar siempre el mal uso de este ya sea si el circuito se encuentra en corto o si este sufre algun fallo.
+
 # BIBLIOGRAFÍA:
 
 Floyd, T. (2007). Principios de circuitos eléctricos. PEARSON Educación. https://drive.google.com/file/d/15UCq2JrPEKKB8SwajlmtTcE07nMiowaK/view
