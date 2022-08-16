@@ -43,6 +43,16 @@ Establecer su relación y su funcionamiento en cada una de las frecuencias de la
 
 # MARCO TEORICO:
 
+![image](https://user-images.githubusercontent.com/105695077/184910419-e2e25463-65c1-4f9a-83ae-a5eef2d7fae7.png)
+![image](https://user-images.githubusercontent.com/105695077/184910479-258bb468-9d62-4831-addc-2d5cda31a1c2.png)
+![image](https://user-images.githubusercontent.com/105695077/184910534-da4478f1-1185-45ab-adce-4da7bf8c8a1e.png)
+![image](https://user-images.githubusercontent.com/105695077/184910587-d1a33f49-daec-4550-92c6-c166794d59fe.png)
+![image](https://user-images.githubusercontent.com/105695077/184910644-db52642a-907d-41ed-9c9a-9c39e0d36d17.png)
+![image](https://user-images.githubusercontent.com/105695077/184910693-f8d8cc7c-b3e2-4a4d-bf6e-afcfa9304b5c.png)
+![image](https://user-images.githubusercontent.com/105695077/184910795-3fc9dee1-d5bf-44fd-9a95-3f796c52fae7.png)
+![image](https://user-images.githubusercontent.com/105695077/184910863-5dd28f1f-f1cf-4e76-86d4-f93aa30dffe4.png)
+![image](https://user-images.githubusercontent.com/105695077/184910919-a85a7c49-1e6c-4537-8cc5-309578c526d9.png)
+
 # EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS:
 
 - Verificar el comportamiento de la bobina y el capacitor en circuitos DC.
