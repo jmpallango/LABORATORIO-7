@@ -113,7 +113,7 @@ Frecuencia: 0Hz
 
 Frecuencia: 10Hz 
 
-![image](https://user-images.githubusercontent.com/105695077/184796323-0981cab9-0b3f-4ccf-99ae-3a30ef9e4dfb.png)
+![image](https://user-images.githubusercontent.com/105695077/184796697-7908c21e-9e68-433b-8b42-98b3827882a3.png)
 
 Frecuencia: 50Hz 
 
